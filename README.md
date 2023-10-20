@@ -2,7 +2,7 @@
  
 You would have to do the following command ingame:
 
-/wynntils map poiProvider add "Festival of the Spirits" "https://raw.githubusercontent.com/ShadowShift/ProfPOI/main/All%20Gathering%20Locations.json"
+/wynntils map poiProvider add "Festival of the Spirits" "https://raw.githubusercontent.com/JamieCallan117/FestivalOfTheSpiritsLocations/main/SpiritLocations.json"
 
 This can be reloaded with: /wynntils map poiProvider reload
 
