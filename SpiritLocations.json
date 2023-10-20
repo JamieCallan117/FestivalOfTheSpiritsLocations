@@ -1,5 +1,5 @@
 [{
-    "name": "Lost Soul I",
+    "name": "Lost Spirit I",
     "color": "#ffffff",
     "icon": "flag",
     "visibility": "always",
@@ -9,7 +9,7 @@
       "z": -1605
     }
   }, {
-    "name": "Lost Soul II",
+    "name": "Lost Spirit II",
     "color": "#ffffff",
     "icon": "flag",
     "visibility": "always",
@@ -19,7 +19,7 @@
       "z": -1816
     }
   }, {
-    "name": "Lost Soul III",
+    "name": "Lost Spirit III",
     "color": "#ffffff",
     "icon": "flag",
     "visibility": "always",
@@ -29,7 +29,7 @@
       "z": -2150
     }
   }, {
-    "name": "Lost Soul IV",
+    "name": "Lost Spirit IV",
     "color": "#ffffff",
     "icon": "flag",
     "visibility": "always",
@@ -39,7 +39,7 @@
       "z": -2166
     }
   }, {
-    "name": "Lost Soul V",
+    "name": "Lost Spirit V",
     "color": "#ffffff",
     "icon": "flag",
     "visibility": "always",
@@ -49,7 +49,7 @@
       "z": -810
     }
   }, {
-    "name": "Lost Soul VI",
+    "name": "Lost Spirit VI",
     "color": "#ffffff",
     "icon": "flag",
     "visibility": "always",
@@ -59,7 +59,7 @@
       "z": -4827
     }
   }, {
-    "name": "Lost Soul VII",
+    "name": "Lost Spirit VII",
     "color": "#ffffff",
     "icon": "flag",
     "visibility": "always",
@@ -69,7 +69,7 @@
       "z": -5585
     }
   }, {
-    "name": "Lost Soul VIII",
+    "name": "Lost Spirit VIII",
     "color": "#ffffff",
     "icon": "flag",
     "visibility": "always",
@@ -79,7 +79,7 @@
       "z": -2914
     }
   }, {
-    "name": "Bounty Soul I",
+    "name": "Bounty Spirit I",
     "color": "#ffff00",
     "icon": "flag",
     "visibility": "always",
@@ -89,7 +89,7 @@
       "z": -1448
     }
   }, {
-    "name": "Bounty Soul II",
+    "name": "Bounty Spirit II",
     "color": "#ffff00",
     "icon": "flag",
     "visibility": "always",
@@ -99,7 +99,7 @@
       "z": -2737
     }
   }, {
-    "name": "Bounty Soul III",
+    "name": "Bounty Spirit III",
     "color": "#ffff00",
     "icon": "flag",
     "visibility": "always",
@@ -109,7 +109,7 @@
       "z": -3235
     }
   }, {
-    "name": "Bounty Soul IV",
+    "name": "Bounty Spirit IV",
     "color": "#ffff00",
     "icon": "flag",
     "visibility": "always",
@@ -119,7 +119,7 @@
       "z": -1572
     }
   }, {
-    "name": "Bounty Soul V",
+    "name": "Bounty Spirit V",
     "color": "#ffff00",
     "icon": "flag",
     "visibility": "always",
@@ -129,7 +129,7 @@
       "z": -2918
     }
   }, {
-    "name": "Bounty Soul VI",
+    "name": "Bounty Spirit VI",
     "color": "#ffff00",
     "icon": "flag",
     "visibility": "always",
