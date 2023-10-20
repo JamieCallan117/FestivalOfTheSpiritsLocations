@@ -1,9 +1,13 @@
 # FestivalOfTheSpiritsLocations
  
-You would have to do the following command ingame:
+To use this in-game simply run the following command
 
 /wynntils map poiProvider add "Festival of the Spirits" "https://raw.githubusercontent.com/JamieCallan117/FestivalOfTheSpiritsLocations/main/SpiritLocations.json"
 
-This can be reloaded with: /wynntils map poiProvider reload
+To update it run
 
-and toggled on/off with: /wynntils map poiProvider toggle Festival of the Spirits
+/wynntils map poiProvider reload
+
+After the festival has ended, you can run this to remove the pois
+
+/wynntils map poiProvider remove Festival of the Spirits
