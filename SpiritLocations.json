@@ -89,6 +89,16 @@
       "z": -5318
     }
   }, {
+    "name": "Lost Spirit X",
+    "color": "#ffffff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -692,
+      "y": 63,
+      "z": -966
+    }
+  }, {
     "name": "Bounty Spirit I",
     "color": "#ffff00",
     "icon": "flag",
