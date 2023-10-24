@@ -304,9 +304,9 @@
   "icon": "flag",
   "visibility": "always",
   "location": {
-    "x": -1370,
-    "y": 60,
-    "z": -3313
+    "x": -1369,
+    "y": 56,
+    "z": -3312
   }
 }, {
   "name": "Bounty Spirit XI",
