@@ -132,11 +132,11 @@
   "name": "Lost Spirit XIV",
   "color": "#ffffff",
   "icon": "flag",
-  "visibility": "hidden",
+  "visibility": "always",
   "location": {
-    "x": 0,
-    "y": 0,
-    "z": 0
+    "x": -2154,
+    "y": 55,
+    "z": -5123
   }
 }, {
   "name": "Lost Spirit XV",
