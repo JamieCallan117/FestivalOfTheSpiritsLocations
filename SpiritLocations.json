@@ -172,11 +172,11 @@
   "name": "Lost Spirit XVIII",
   "color": "#ffffff",
   "icon": "flag",
-  "visibility": "hidden",
+  "visibility": "always",
   "location": {
-    "x": 0,
-    "y": 0,
-    "z": 0
+    "x": 962,
+    "y": 125,
+    "z": -4487
   }
 }, {
   "name": "Lost Spirit XIX",
