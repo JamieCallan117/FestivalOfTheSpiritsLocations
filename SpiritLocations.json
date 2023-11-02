@@ -202,11 +202,11 @@
   "name": "Lost Spirit XXI",
   "color": "#ffffff",
   "icon": "flag",
-  "visibility": "hidden",
+  "visibility": "always",
   "location": {
-    "x": 0,
-    "y": 0,
-    "z": 0
+    "x": 79,
+    "y": 71,
+    "z": -359
   }
 }, {
   "name": "Bounty Spirit I",
